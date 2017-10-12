@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\win7\\Downloads\\HongbangIC\\HongbangIC\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_appbar_state_list_animator.xml",
+        "source": "C:\\Android\\.android\\build-cache\\c81a231b1091071454f6f7297621d749ddeb5526\\output\\res\\anim-v21\\design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "C:\\Users\\win7\\Downloads\\HongbangIC\\HongbangIC\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Android\\.android\\build-cache\\c81a231b1091071454f6f7297621d749ddeb5526\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\win7\\Downloads\\HongbangIC\\HongbangIC\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Android\\.android\\build-cache\\c81a231b1091071454f6f7297621d749ddeb5526\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    }
+]

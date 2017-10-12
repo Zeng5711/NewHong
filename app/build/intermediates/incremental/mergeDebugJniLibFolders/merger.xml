@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\win7\Downloads\HongbangIC\HongbangIC\app\jniLibs"><file name="armeabi/libbdpush_V2_5.so" path="C:\Users\win7\Downloads\HongbangIC\HongbangIC\app\jniLibs\armeabi\libbdpush_V2_5.so"/><file name="armeabi-v7a/libbdpush_V2_5.so" path="C:\Users\win7\Downloads\HongbangIC\HongbangIC\app\jniLibs\armeabi-v7a\libbdpush_V2_5.so"/></source></dataSet><dataSet config="debug"><source path="C:\Users\win7\Downloads\HongbangIC\HongbangIC\app\src\debug\jniLibs"/></dataSet></merger>

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\win7\\Downloads\\HongbangIC\\HongbangIC\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
+        "source": "C:\\Android\\.android\\build-cache\\20dcd54fe965560732dfb8498cb95687e02d0afc\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\win7\\Downloads\\HongbangIC\\HongbangIC\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\common_title_bar.xml",
+        "source": "C:\\Users\\win7\\Downloads\\HongbangIC\\HongbangIC\\app\\src\\main\\res\\layout-v21\\common_title_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\win7\\Downloads\\HongbangIC\\HongbangIC\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Android\\.android\\build-cache\\20dcd54fe965560732dfb8498cb95687e02d0afc\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\win7\\Downloads\\HongbangIC\\HongbangIC\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Android\\.android\\build-cache\\20dcd54fe965560732dfb8498cb95687e02d0afc\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\win7\\Downloads\\HongbangIC\\HongbangIC\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Android\\.android\\build-cache\\20dcd54fe965560732dfb8498cb95687e02d0afc\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\win7\Downloads\HongbangIC\HongbangIC\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_2e1c771cc155ae1021ab00bd594e0e8088530657\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win7\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="C:\Users\win7\Downloads\HongbangIC\HongbangIC\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.8.0_ae2e6a224a00310b13150d8ff9c3df507900cbe8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win7\Downloads\HongbangIC\HongbangIC\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a9fdbf39a4ed57c5f53bd908fe91ab8f0f2053bd">
+        <dex dex="C:\Users\win7\Downloads\HongbangIC\HongbangIC\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_21ffa1d0adea7bcf15d1f381fb360e7035fe9df6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win7\Downloads\HongbangIC\HongbangIC\app\libs\libammsdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="11b09244aedaa51bfd09269637be7c32c60da314">
+        <dex dex="C:\Users\win7\Downloads\HongbangIC\HongbangIC\app\build\intermediates\transforms\dex\debug\folders\1000\2\libammsdk_a564165c4e5c8706a3482643173d6aa26612e1c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\87c02d46f1c9629b0ddc521cdec540dd8b3854c8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f012268b56e56239148960f2697b4ef138b670f">
+        <dex dex="C:\Users\win7\Downloads\HongbangIC\HongbangIC\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d8284eb152c1cf6e868db0f01cdf80272f6ad8e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\d49bbb9861563e3dd791ca8ca9cd3b67a9a2791d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8531f2d46b35de75e6130f25830e0c2c0d6bb98c">
+        <dex dex="C:\Users\win7\Downloads\HongbangIC\HongbangIC\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_75e7bdb2390d3c935ed7633839f329d5673ab5a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\4256f692589d6d038d50ea79810365c7e1e78a3b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9995a46c177a05bf546bb5e96c0952b7a163fe0e">
+        <dex dex="C:\Users\win7\Downloads\HongbangIC\HongbangIC\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7128ebea3c6362c2c934a08e54d87e7141374e6d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win7\Downloads\HongbangIC\HongbangIC\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\win7\Downloads\HongbangIC\HongbangIC\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4d1d4d7a2a11f04852d5b586b2e5f26eb68a68b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\c81a231b1091071454f6f7297621d749ddeb5526\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="C:\Users\win7\Downloads\HongbangIC\HongbangIC\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1fb1a09b86cfe055f8570deae867ad650cb9f9a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\85eabb86e4630c1a487c925ca0c6bfd9d0cfd156\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c70d3d4cb2d0b16c435c716fa169cb506929269b">
+        <dex dex="C:\Users\win7\Downloads\HongbangIC\HongbangIC\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_17825243794fd8d96c7128148f5053206d0704cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\1602cbc59b59a0fb69d21716cc49787876c30b47\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\win7\Downloads\HongbangIC\HongbangIC\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7c17f68bb2f426b4b10415fbd6051e67e83243c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\f4b70b8bf177a24f3c0a7911441f5e2e62216891\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5a5cbc42192d2afde319e4babe59bf8e41a49d35">
+        <dex dex="C:\Users\win7\Downloads\HongbangIC\HongbangIC\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8c1701f7ccbc419affcf6264c3a9efb82b33715e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\bd5c0e06088219fe307f914c55fee2795eb1fa3a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\win7\Downloads\HongbangIC\HongbangIC\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6620dc1d2092faf712ff3b4f9249d8a9faaa0774\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\367e09a64fcb4b7a0afccd9632299ed3d6d34698\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="115e02104d60c8ea161a57cfcb844f235575a197">
+        <dex dex="C:\Users\win7\Downloads\HongbangIC\HongbangIC\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fe0d31385fc8b908466c5cdd0e85eb1ca5734b31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\fcd43276e4939e5ffeb14c9cf8373e95e2c004c2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\win7\Downloads\HongbangIC\HongbangIC\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0e5d629e405738350fde50d7ee5f9aab6320cee7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win7\Downloads\HongbangIC\HongbangIC\app\libs\pushservice-4.6.2.39.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c3dbe0fdd31a38b3defc63f78f8fccabd50e2ddd">
+        <dex dex="C:\Users\win7\Downloads\HongbangIC\HongbangIC\app\build\intermediates\transforms\dex\debug\folders\1000\2\pushservice-4.6.2.39_7ba93bbb6c4c7aa9ea983c7b7a4c1b01ff9b787c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\f8c46132562d7797a22599073bb5b62df8c6bddc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0fa503d1770a0978d463c33cd411c3e70dea0c53">
+        <dex dex="C:\Users\win7\Downloads\HongbangIC\HongbangIC\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7461af68e124d1571931606ca532520631560f8a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\f5413a2e101fb0fde2e60389861af8adbd22143a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\win7\Downloads\HongbangIC\HongbangIC\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_19c1e5cc722f7974a6f9768a7a6aa844cc697d02\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\9040b1b9a3ecef28e44cd5952d5b4d31cc21803b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\win7\Downloads\HongbangIC\HongbangIC\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5253fb8a964d7b9c9f19784573466750c877788f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\0a8ca314fc2adac041fd69a4921f74c72d5da34b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\win7\Downloads\HongbangIC\HongbangIC\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bf939eab86045b7f3f8805fec83b89a8a75412ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\20dcd54fe965560732dfb8498cb95687e02d0afc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\win7\Downloads\HongbangIC\HongbangIC\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c7f4ead6df0260145ac2ddc0871f55354eac3595\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\6d7b8358184d349a3b91d1bedca21f420b6bd946\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\win7\Downloads\HongbangIC\HongbangIC\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_758c3a65fdfcc21b3bd2834b2af31e72503b28c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\win7\.gradle\caches\modules-2\files-2.1\com.squareup\seismic\1.0.2\41252e3eff887b3ab9a2ef9e4e9218f999d85b68\seismic-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="41252e3eff887b3ab9a2ef9e4e9218f999d85b68">
+        <dex dex="C:\Users\win7\Downloads\HongbangIC\HongbangIC\app\build\intermediates\transforms\dex\debug\folders\1000\10\seismic-1.0.2_b2403cf633719c3cc415033c0a72c650f5cddeb4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\53b81cf713eb880f623dab830a0281592bbe3681\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="C:\Users\win7\Downloads\HongbangIC\HongbangIC\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a00c6071a58cb0c7e4b651cca1495740886ee70c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\6f5a453ba6e66b5ada98722e4c26d789ded9e955\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\win7\Downloads\HongbangIC\HongbangIC\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_93c46cfbb69c73fbeabfd1bb325893b72a5a8db3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\e5db7c09912cea80be3c5aec79772c3f9c3a6197\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\win7\Downloads\HongbangIC\HongbangIC\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_df6e7311b4e6bc57bc70f95f4364a837c5603531\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\d6ac56b1eb2a17975769216eee5df81077373e7f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\win7\Downloads\HongbangIC\HongbangIC\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c18a4d9b6608e68e9f82562d2e061cabf169f21c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\3a98c4fb90699dd942ef1ab7282a7048bda7ce39\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="C:\Users\win7\Downloads\HongbangIC\HongbangIC\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_db757429c15c02b310e5ccc927b5a79a966781d0\classes.dex" />
+    </item>
+
+</items>

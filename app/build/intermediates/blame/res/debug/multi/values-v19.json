@@ -1,0 +1,49 @@
+[
+    {
+        "outputFile": "C:\\Users\\win7\\Downloads\\HongbangIC\\HongbangIC\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v19\\values-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 178
+                },
+                "from": {
+                    "file": "C:\\Users\\win7\\Downloads\\HongbangIC\\HongbangIC\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 183,
+                    "endLine": 7,
+                    "endColumn": 12,
+                    "endOffset": 321
+                },
+                "from": {
+                    "file": "C:\\Users\\win7\\Downloads\\HongbangIC\\HongbangIC\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 185,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 323
+                    }
+                }
+            }
+        ]
+    }
+]

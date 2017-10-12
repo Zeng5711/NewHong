@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "C:\\Users\\win7\\Downloads\\HongbangIC\\HongbangIC\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 41,
+                    "endOffset": 92
+                },
+                "from": {
+                    "file": "C:\\Android\\.android\\build-cache\\4256f692589d6d038d50ea79810365c7e1e78a3b\\output\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 41,
+                        "endOffset": 92
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 97,
+                    "endColumn": 51,
+                    "endOffset": 144
+                },
+                "from": {
+                    "file": "C:\\Android\\.android\\build-cache\\4256f692589d6d038d50ea79810365c7e1e78a3b\\output\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 97,
+                        "endColumn": 51,
+                        "endOffset": 144
+                    }
+                }
+            }
+        ]
+    }
+]
